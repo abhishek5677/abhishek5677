@@ -41,12 +41,14 @@ I'm a passionate **Full Stack Developer** with 2.6+ years of experience (aiming 
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekgarad&show_icons=true&theme=react)
 
+![abhishek5677's Stats](https://github-readme-stats.vercel.app/api?username=abhishek5677&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-garad-8478a61b2/)
-- 📬 Mail: abhishekgarad5677@gmail.com *(update with your real mail)*
+- 📬 Mail: abhishekgarad5677@gmail.com
 
 ---
 
