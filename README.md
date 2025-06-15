@@ -39,9 +39,11 @@ I'm a passionate **Full Stack Developer** with 2.6+ years of experience (aiming 
 
 ## 📈 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekgarad&show_icons=true&theme=react)
-
 ![abhishek5677's Stats](https://github-readme-stats.vercel.app/api?username=abhishek5677&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+
+![abhishek5677's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek5677&theme=tokyonight&hide_border=false)
+
+![abhishek5677's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek5677&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
