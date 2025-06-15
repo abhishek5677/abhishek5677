@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Garad
 
-I'm a passionate **Full Stack Developer** with 2.6+ years of experience (aiming for 4+) in building scalable web applications using **ReactJS, Node.js, MongoDB**, and **modern JavaScript frameworks**. I focus on writing clean code, creating great UX, and improving performance across the stack.
+I'm a passionate **Full Stack Developer** with 2.6+ years of experience in building scalable web applications using **ReactJS, Node.js, MongoDB**, and **modern JavaScript frameworks**. I focus on writing clean code, creating great UX, and improving performance across the stack.
 
 ---
 
