@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Developer** with 2.6+ years of experience (aiming 
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishekgarad/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-garad-8478a61b2/)
 - 📬 Mail: abhishek.garad@example.com *(update with your real mail)*
 
 ---
